@@ -1,0 +1,17 @@
+{
+    "auth_service": "ptc",
+    "username": "flushentitypacke",
+    "password": "honro2435",
+    "location": "42.3647555,-71.1032591,15z",
+    "gmapkey": "AIzaSyAnBw5kzPxXUWcWjRYvBinW4RFvym156v4",
+    "max_steps": 5,
+    "mode": "all",
+    "walk": 4.16,
+    "debug": false,
+    "test": false,
+    "initial_transfer": 0,
+    "location_cache": true,
+    "distance_unit": "km",
+    "item_filter": "101,102,103,104",
+    "evolve_all": "NONE"
+}
