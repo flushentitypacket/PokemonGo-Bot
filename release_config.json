@@ -160,10 +160,11 @@
     "exceptions": {
         "always_capture": [
             "Arcanine",
-            "Lapras",
-            "Dragonite",
-            "Snorlax",
             "Blastoise",
+            "Chansey",
+            "Dragonite",
+            "Lapras",
+            "Snorlax",
             "Moltres",
             "Articuno",
             "Zapdos",
